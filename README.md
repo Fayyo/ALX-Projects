@@ -12,6 +12,9 @@ Integrated project 2: In this second part of the integrated project, I extended 
 1. For project 1, reference the file: Estimates-on-the-use-of-water-(2020)-a-3712.csv
 2. For project 2, reference the files: Estimates of the use of water (2000-2020).csv and Regions.csv
 
+### SQL
+For this project, check out the notebook and the TMDB.db file
+
 ## Project Structure:
 Excel: Contains Excel projects.
 PowerBI: Contains Power BI projects.
