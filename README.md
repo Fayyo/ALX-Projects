@@ -7,6 +7,11 @@ ere's a brief overview of what you'll find:
 Integrated project 1: In this project, I investigated access to safe and affordable drinking water. I needed to create features, summaries, and visualisations
 Integrated project 2: In this second part of the integrated project, I extended my investigation on access to safe and affordable drinking water. I needed to create more features, summaries, and visualisations.
 
+## Databases
+### Excel
+1. For project 1, reference the file: Estimates-on-the-use-of-water-(2020)-a-3712.csv
+2. For project 2, reference the files: Estimates of the use of water (2000-2020).csv and Regions.csv
+
 ## Project Structure:
 Excel: Contains Excel projects.
 PowerBI: Contains Power BI projects.
