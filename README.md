@@ -52,6 +52,26 @@ TMDB.db file: Contains the raw movies data
 Open the SQL Exam notebook and ensure your database is stored in the same location as the notebook
 
 
+### 3. PowerBI
+This project inolves building dashboards to communicate with transparency the problems causing Maji Ndogo's water crisis. I tracked the total budget against project completion, monitor teams' performance, and compared budgeted versus actual costs to flag potential corruption.
+
+#### Skills Demonstrated:
+Importing and transforming data from multiple sources into Power BI using Power Query Editor.
+Designing interactive dashboards with slicers, filters, buttons, and drill-down functionalities.
+Implementing custom visuals and calculated measures for advanced data analysis.
+
+#### Files:
+Md_water_services_data.xlsx: Contains the raw sales data.
+Maji Ndogo Analysis.pbix: Power BI file with the dashboards.
+MD_Provinces.json: Contains the map data to aid proper visualisations
+MD_Map.png: Contains the map outline
+
+#### Usage:
+Open Maji Ndogo Analysis.pbix in Power BI Desktop.
+Connect Md_water_services_data.xlsx as a data source and refresh data if necessary.
+Connect the MD_Provinces.json as well as the MD_Map.png 
+Interact with the dashboard to explore insights and trends.
+
 ## Project Structure:
 Excel: Contains Excel projects.
 SQL: Contains SQL projects.
