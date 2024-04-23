@@ -83,10 +83,10 @@ Using scipy to perform statistics on the data
 
 #### Files
 MD_agric_exam-4313.csv: Contains the raw agricultural file
-Python_Exam.ipynb: Contains the python code used on the data
+Python exam.ipynb: Contains the python code used on the data
 
 #### Usage
-Open the Python_Exam.ipynb file in jupyter notebook, or any code editor
+Open the Python exam.ipynb file in jupyter notebook, or any code editor
 Download and save the MD_agric_exam-4313.csv file in the same location as the notebook and begin testing out your won codes
 
 ## Project Structure:
