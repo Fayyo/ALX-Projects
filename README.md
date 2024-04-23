@@ -72,12 +72,29 @@ Connect Md_water_services_data.xlsx as a data source and refresh data if necessa
 Connect the MD_Provinces.json as well as the MD_Map.png 
 Interact with the dashboard to explore insights and trends.
 
+### 4. Python
+This project involves analusing an agricultural csv file to test my python knowledge
+
+#### Skills Demonstrated
+Importing and exploring the dataset using pandas
+Wrangling the dataset using pandas to extract insights from the dataset.
+Using Matplotlib to create visualisations to better understand the data.
+Using scipy to perform statistics on the data
+
+#### Files
+MD_agric_exam-4313.csv: Contains the raw agricultural file
+Python_Exam.ipynb: Contains the python code used on the data
+
+#### Usage
+Open the Python_Exam.ipynb file in jupyter notebook, or any code editor
+Download and save the MD_agric_exam-4313.csv file in the same location as the notebook and begin testing out your won codes
+
 ## Project Structure:
-Excel: Contains Excel projects.
-SQL: Contains SQL projects.
-PowerBI: Contains Power BI projects.
-Python: Contains Python projects.
-Machine Learning: Contains machine learning projects.
+1. Excel: Contains Excel projects.
+2. SQL: Contains SQL projects.
+3. PowerBI: Contains Power BI projects.
+4. Python: Contains Python projects.
+
 
 ## Contributing:
 Contributions are welcome! If you'd like to contribute to any project or have suggestions for improvement, feel free to open an issue or submit a pull request.
